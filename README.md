@@ -1,7 +1,7 @@
 # trilhaapp_v02
 Evolução do app "trilhaapp" bootcamp
 
-## Getting Started
+## Getting Started teste
 
 This project is a starting point for a Flutter application.
 
