@@ -1,5 +1,5 @@
 # trilhaapp_v02
-Evolução do app "trilhaapp"
+Evolução do app "trilhaapp" bootcamp
 
 ## Getting Started
 
